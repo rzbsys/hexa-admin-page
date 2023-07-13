@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@pages/*": ["src/pages/*"],
+        "@layouts/*": ["src/layouts/*"],
+        "@styles/*": ["src/styles/*"],
+        "@constant": ["src/constant.ts"],
+        "@components/*": ["src/components/*"],
+        "@static/*" : ["src/static/*"]
+      }
+    }
+  }
+  
